@@ -13,7 +13,7 @@ Simple autonomous Arduino project.
 
 # Scheme
 
-![Image of scheme](./info/scheme.png)
+![Image of scheme](https://github.com/rnko/meteo/blob/master/info/scheme.PNG)
 
 # Functionality
 
