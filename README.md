@@ -22,3 +22,4 @@ Arduino parst this data and sending to LCD display.
 After 55 loops the sckreen turning off back light and after 60 loops it turnes off the screen. 
 By pressing sensor button the display turnes on and Arduino counts the loops again.
 The battery is powering the Arduino. But 4.2 v from battery is not enought for Arduino and screen and DC-DC Step-Up module is increasing voltage to stable 5v.
+test
